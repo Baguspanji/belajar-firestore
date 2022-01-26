@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "1005784974654",
+    "firebase_url": "https://santri-42370-default-rtdb.firebaseio.com",
+    "project_id": "santri-42370",
+    "storage_bucket": "santri-42370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005784974654:android:20024984cc5d2b96e7986f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005784974654-m3ad6acq8nbp81s5fdsfa6mcina5enal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_firebase",
+            "certificate_hash": "e82d59b442e56cd3b456b4ead961641d7715048c"
+          }
+        },
+        {
+          "client_id": "1005784974654-8eo3jlne64c9kcu0d1hcj6473guuppi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdoliT_aAVRDKRDzeqeQnl0vm1QJ2dyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005784974654-8eo3jlne64c9kcu0d1hcj6473guuppi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005784974654:android:4d1d0e45f1aea8d3e7986f",
+        "android_client_info": {
+          "package_name": "com.example.nilai_santri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005784974654-08v6coasm072h24usj3dfucot39sv2lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nilai_santri",
+            "certificate_hash": "9353e110b8d00e4151f4b5ec0907b81def373844"
+          }
+        },
+        {
+          "client_id": "1005784974654-dj1daseicslfldfnig0ddukbfcpk37rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nilai_santri",
+            "certificate_hash": "aa7483f9b2e7c0745f73ef8d9181dfd67a704a4c"
+          }
+        },
+        {
+          "client_id": "1005784974654-u2qk082r88rfe8ukvqstt2bdfvdl9ajl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nilai_santri",
+            "certificate_hash": "d4d3b0dababb7350fe33d668ada1532d3f55ba42"
+          }
+        },
+        {
+          "client_id": "1005784974654-8eo3jlne64c9kcu0d1hcj6473guuppi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdoliT_aAVRDKRDzeqeQnl0vm1QJ2dyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005784974654-8eo3jlne64c9kcu0d1hcj6473guuppi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
